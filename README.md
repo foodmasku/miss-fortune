@@ -1,6 +1,8 @@
 # 🔮 Miss Fortune  
 _A self-looping AI fortune teller powered by **Flora** and **ElevenLabs**._
 
+▶️ [View the live Flora workflow](https://www.florafauna.ai/view/9b46ddba-49ba-4e05-9eca-90e0572f606c)
+
 Miss Fortune is an experiment in automating an AI-to-AI feedback loop using **Flora**, **Tampermonkey**, and **ElevenLabs**. It was built during a 2-day hackathon to explore three key challenges:
 
 - Can **Flora** be automated to trigger its functions without manual input?  
