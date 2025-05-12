@@ -15,13 +15,9 @@ A **Tampermonkey** script copies the final text and sends it to **ElevenLabs**, 
 
 The audio output also triggers **OBS** to animate the mouth of a VTuber avatar, whose image was created using **Flora**. At the same time, **OBS** composites the generated image inside a crystal ball on screen. This setup can be used to power a continuous 24/7 livestream, especially if made more cost-effective in future iterations.
 
-## 📸 Demo / Screenshots
+## 📸 Demo
 
-_screenshots here_
-
-## 🗣 Sample Output
-
-> "sample output here"
+🎥 [🔮 Miss Fortune Demo on Loom](https://cdn.loom.com/sessions/thumbnails/1ed8e2ad28294796afe5a8c6c5df33c5-fd5bc7eff4fae4cc-full-play.gif)](https://www.loom.com/share/1ed8e2ad28294796afe5a8c6c5df33c5)
 
 ## 🧩 Limitations & Next Steps
 
