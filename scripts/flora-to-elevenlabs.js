@@ -11,7 +11,7 @@
 (function () {
     'use strict';
 
-    const ELEVENLABS_API_KEY = 'sk_522a826a7300587872823def2f517e6e41bf1594936851cf';
+    const ELEVENLABS_API_KEY = 'YOUR-ELEVENLABS-API-Key'; // Your ElevenLabs API Key
     const VOICE_ID = '7NsaqHdLuKNFvEfjpUno'; // Your ElevenLabs voice ID
 
     function triggerFloraRun() {
