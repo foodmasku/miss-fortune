@@ -29,13 +29,13 @@ The audio output also triggers **OBS** to animate the mouth of a VTuber avatar, 
 **File:** `flora-fortune-teller.jpg`  
 This image was created using the **Flora** workflow, combining two images together and generating three frames of a VTuber speaking animation.
 
-![Flora Fortune Teller](../samples/flora-fortune-teller.jpeg)
+![Flora Fortune Teller](samples/flora-fortune-teller.jpeg)
 
 ### 🎧 Spoken Fortune  
 **File:** `elevenlabs-spoken-fortune.mp3`  
 This audio fortune was generated from Flora’s final image-to-text interpretation, spoken aloud by **ElevenLabs** using a Tampermonkey bridge.
 
-▶️ [Click here to play the MP3](../samples/elevenlabs-spoken-fortune.mp3)  
+▶️ [Click here to play the MP3](samples/elevenlabs-spoken-fortune.mp3)  
 (or click the play button below)
 
 <audio controls>
