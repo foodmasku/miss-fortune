@@ -4,8 +4,8 @@ _A self-looping AI fortune teller powered by **Flora** and **ElevenLabs**._
 Miss Fortune is an experiment in automating an AI-to-AI feedback loop using **Flora**, **Tampermonkey**, and **ElevenLabs**. It was built during a 2-day hackathon to explore three key challenges:
 
 - Can **Flora** be automated to trigger its functions without manual input?  
-- Can **Flora**’s output be sent to external services like **ElevenLabs**?  
-- Can an AI system speak, respond, and re-trigger itself in a continuous loop, 24/7, so it can stream?
+- Can **Flora**’s output be sent to external services like **ElevenLabs**?
+- Can an AI system speak, respond, and continuously re-trigger itself to power a 24/7 stream?
 
 ## 🧠 How Miss Fortune Works
 
@@ -29,8 +29,6 @@ This image was created using the **Flora** workflow, combining two images togeth
 
 ![Flora Fortune Teller](../samples/flora-fortune-teller.jpeg)
 
----
-
 ### 🎧 Spoken Fortune  
 **File:** `elevenlabs-spoken-fortune.mp3`  
 This audio fortune was generated from Flora’s final image-to-text interpretation, spoken aloud by **ElevenLabs** using a Tampermonkey bridge.
@@ -43,7 +41,17 @@ This audio fortune was generated from Flora’s final image-to-text interpretati
   Your browser does not support the audio tag.
 </audio>
 
+## 🖼️ Screenshots
 
+### 🧠 Flora Workflow
+Visual overview of the full **Flora** flow, including text → image → style → image-to-text blocks.
+
+![Flora Workflow](screenshots/flora-workflow.png)
+
+### 🔮 VTuber in OBS
+The **OBS** scene showing a **VTuber** avatar synced to audio, with the generated image placed inside the animated crystal ball.
+
+![OBS Scene](screenshots/obs-scene.png)
 
 ## 🧩 Limitations & Next Steps
 
