@@ -17,7 +17,8 @@ The audio output also triggers **OBS** to animate the mouth of a VTuber avatar, 
 
 ## 📸 Demo
 
-🎥 [🔮 Miss Fortune Demo on Loom](https://cdn.loom.com/sessions/thumbnails/1ed8e2ad28294796afe5a8c6c5df33c5-fd5bc7eff4fae4cc-full-play.gif)](https://www.loom.com/share/1ed8e2ad28294796afe5a8c6c5df33c5)
+[![🔮 Miss Fortune Demo on Loom](https://cdn.loom.com/sessions/thumbnails/1ed8e2ad28294796afe5a8c6c5df33c5-fd5bc7eff4fae4cc-full-play.gif)](https://www.loom.com/share/1ed8e2ad28294796afe5a8c6c5df33c5)
+
 
 ## 🧩 Limitations & Next Steps
 
